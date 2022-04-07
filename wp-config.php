@@ -20,16 +20,16 @@
 
 // ** Thiết lập MySQL - Bạn có thể lấy các thông tin này từ host/server ** //
 /** Tên database MySQL */
-define( 'DB_NAME', 'lamthaovy' );
+define( 'DB_NAME', 'sql4484313' );
 
 /** Username của database */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'sql4484313' );
 
 /** Mật khẩu của database */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'zHKKe9mlA9' );
 
 /** Hostname của database */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'sql4.freemysqlhosting.net' );
 
 /** Database charset sử dụng để tạo bảng database. */
 define( 'DB_CHARSET', 'utf8mb4' );
