@@ -29,7 +29,7 @@ define( 'DB_USER', 'sql4484313' );
 define( 'DB_PASSWORD', 'zHKKe9mlA9' );
 
 /** Hostname của database */
-define( 'DB_HOST', 'sql4.freemysqlhosting.net' );
+define( 'DB_HOST', 'localhost' );
 
 /** Database charset sử dụng để tạo bảng database. */
 define( 'DB_CHARSET', 'utf8mb4' );
